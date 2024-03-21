@@ -1,4 +1,3 @@
 # BSC_DPDM23
 
-
-https://github.com/Penpitcha0634/BSC_DPDM23/blob/e6900e06faadd3720a52c1adb5fb6172b235e26c/HW4_Calculate_DecisionTree.pdf
+https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cdd664c16f4/HW4_Calculate_DecisionTree.pdf

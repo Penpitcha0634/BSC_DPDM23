@@ -21,7 +21,7 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
 - Frequent Patterns : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/bab7eb424e37b0a1fbf1b313ff958c9609573c04/Frequent_Patterns_(Association_Rules).ipynb)
 - Classification : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/bab7eb424e37b0a1fbf1b313ff958c9609573c04/Classification.ipynb)
 
-# Home Work :bookmark_tabs:
+# Home Work :house_with_garden:
 ## HW1 Frequent set item set and Association rules :moneybag:
 >> สมาชิก กลุ่มหนูน้อยหอยนางรม 
 >>  - 1.นางสาวเพ็ญพิชชา  วรรณ์ชูมาตร์ รหัสนักศึกษา  643020063-4

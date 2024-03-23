@@ -20,3 +20,22 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
 - Dimensionality Reduction PCA : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/bab7eb424e37b0a1fbf1b313ff958c9609573c04/Dimensionality_Reduction_PCA.ipynb)
 - Frequent Patterns : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/bab7eb424e37b0a1fbf1b313ff958c9609573c04/Frequent_Patterns_(Association_Rules).ipynb)
 - Classification : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/bab7eb424e37b0a1fbf1b313ff958c9609573c04/Classification.ipynb)
+
+# Home Work 
+## Frequent set item set and Association rules
+>> กลุ่มหนูน้อยหอยนางรม
+  - 1. นางสาวเพ็ญพิชชา  วรรณ์ชูมาตร์  รหัสนักศึกษา  643020063-4
+  - 2. นางสาววริศรา      ปันลา      รหัสนักศึกษา  643020519-7 
+  - 3.นางสาวอนัญญา     พูลสวัสดิ์    รหัสนักศึกษา  643020526-0
+  - 4.นางสาววิลันดา      ทาระมาตย์   รหัสนักศึกษา  643021271-2
+
+
+
+
+
+
+
+
+
+
+

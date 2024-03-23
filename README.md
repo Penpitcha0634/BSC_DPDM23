@@ -73,6 +73,10 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
  * Code : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/e9a12db43451ee2b40c63b489a8803b92e6ff0fc/MIDTERM.ipynb)
 
 # FINAL PROJECT
+สมาชิกกลุ่ม ช่วยด้วย & หนูน้อยหอยนางรม
+>>  ![](https://github.com/Penpitcha0634/BSC_DPDM23/blob/9bd509b6ac81929c6c70a0c2be4b9ee4ccfa788e/Final_Project_%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%96%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%97%E0%B8%B8%E0%B8%81.png)
+>>  * PRESENTATION : [Click to go to PRESENTATION](https://github.com/Penpitcha0634/BSC_DPDM23/blob/9bd509b6ac81929c6c70a0c2be4b9ee4ccfa788e/Final_Project_%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%96%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%97%E0%B8%B8%E0%B8%81.pdf)
+>>  * Code :  [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/9bd509b6ac81929c6c70a0c2be4b9ee4ccfa788e/Group_project2.ipynb)
 
 # Lecture
 - 01Intro : [Click Me now]()

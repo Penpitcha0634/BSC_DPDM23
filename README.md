@@ -37,8 +37,18 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
 >> ![](https://github.com/Penpitcha0634/BSC_DPDM23/blob/c9c56381b2f401bfa2be71535fd8d60139c95d03/HW2.jpg)
 >> - HW2 : [Click to go to HW2](https://github.com/Penpitcha0634/BSC_DPDM23/blob/c9c56381b2f401bfa2be71535fd8d60139c95d03/HW2%20.pdf)
 
-
-
+## HW3 Decision Tree Classifier Parameters is Spitter and Min samples split
+>> สมาชิกกลุ่ม NMN & หนูน้อยหอยนางรม
+>>  * 1.นางสาวเพ็ญพิชชา  วรรณ์ชูมาตร์ รหัสนักศึกษา  643020063-4
+>>  * 2.นายภัทรธร ก้อนมณี รหัสนักศึกษา  643020513-9
+>>  * 3.นายรัชชานนท์ ทิพย์พิมานพร รหัสนักศึกษา  643020515-5
+>>  * 4.นายวุฒิชัย คำนา รหัสนักศึกษา  643020521-0
+>>  * 5.นางสาววริศรา ปันลา รหัสนักศึกษา  643020519-7
+>>  * 6.นางสาวอนัญญา พูลสวัสดิ์ รหัสนักศึกษา  643020526-0
+>>  * 7.นางสาววิลันดา ทาระมาตย์ รหัสนักศึกษา  643021271-2
+>>  ![](https://github.com/Penpitcha0634/BSC_DPDM23/blob/756ca16e9fa74ede185001f18304b9d2c0696249/HW3_Decision%20Tree.png)
+>>  * PRESENTATION : [Click to go to PRESENTATION](https://github.com/Penpitcha0634/BSC_DPDM23/blob/756ca16e9fa74ede185001f18304b9d2c0696249/HW3_Decision%20Tree.pdf)
+>>  * Code :  [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/756ca16e9fa74ede185001f18304b9d2c0696249/Classification.ipynb)
 
 
 

@@ -32,6 +32,11 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
 >> - PRESENTATION : [Click to go to PRESENTATION](https://github.com/Penpitcha0634/BSC_DPDM23/blob/904050ec96b2b93e60caa29b44217be1697d8f2a/HW1_%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%A1.pdf)
 >> - Code : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/904050ec96b2b93e60caa29b44217be1697d8f2a/Frequent_Patterns_(Association_Rules).ipynb)
 
+## HW2 Decision Tree
+>> - นางสาวเพ็ญพิชชา  วรรณ์ชูมาตร์ รหัสนักศึกษา  643020063-4
+>> ![](https://github.com/Penpitcha0634/BSC_DPDM23/blob/c9c56381b2f401bfa2be71535fd8d60139c95d03/HW2.jpg)
+>> - HW2 : [Click to go to HW2](https://github.com/Penpitcha0634/BSC_DPDM23/blob/c9c56381b2f401bfa2be71535fd8d60139c95d03/HW2%20.pdf)
+
 
 
 

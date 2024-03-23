@@ -14,7 +14,16 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
 | GitHub | ความสวยงาม | 5%
 | Total |  | 100% |
 
-# All code learned :sparkles:
+# Lecture :pencil2:
+- 01Intro : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/01Intro.pdf)
+- 02Data-1 : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/02Data-1.pdf)
+- 03Preprocessing : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/03Preprocessing.pdf)
+- 06FPBasic : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/06FPBasic.pdf)
+- 08ClassBasic : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/08ClassBasic.pdf)
+- 09ClassAdvanced : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/09ClassAdvanced.pdf)
+- 10ClusBasic : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/10ClusBasic.pdf)
+
+# All code  :sparkles:
 - Understanding Data : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/b6baf21bd5c420639b097734dfe268dbdc5d27d8/Understanding_Data.ipynb)
 - Data Preprocessing : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/bab7eb424e37b0a1fbf1b313ff958c9609573c04/Data_Preprocessing.ipynb)
 - Dimensionality Reduction PCA : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/bab7eb424e37b0a1fbf1b313ff958c9609573c04/Dimensionality_Reduction_PCA.ipynb)
@@ -87,11 +96,4 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
 >>  * PRESENTATION : [Click to go to PRESENTATION](https://github.com/Penpitcha0634/BSC_DPDM23/blob/9bd509b6ac81929c6c70a0c2be4b9ee4ccfa788e/Final_Project_%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%96%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%97%E0%B8%B8%E0%B8%81.pdf)
 >>  * Code :  [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/9bd509b6ac81929c6c70a0c2be4b9ee4ccfa788e/Group_project2.ipynb)
 
-# Lecture :pencil2:
-- 01Intro : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/01Intro.pdf)
-- 02Data-1 : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/02Data-1.pdf)
-- 03Preprocessing : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/03Preprocessing.pdf)
-- 06FPBasic : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/06FPBasic.pdf)
-- 08ClassBasic : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/08ClassBasic.pdf)
-- 09ClassAdvanced : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/09ClassAdvanced.pdf)
-- 10ClusBasic : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/10ClusBasic.pdf)
+

@@ -69,5 +69,16 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
 >> - HW5 : [Click to go to HW5](https://github.com/Penpitcha0634/BSC_DPDM23/blob/85ec56be54b51d26ad1fd3f6ebe8bf2e53165b20/HW5_ANN.pdf)
 
 # MIDTERM PROJECT
->> ![](https://github.com/Penpitcha0634/BSC_DPDM23/blob/363044e2602ec0665f598bf0bd90f7400183b5d8/MIDTERM.png)
->> * Code : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/e9a12db43451ee2b40c63b489a8803b92e6ff0fc/MIDTERM.ipynb)
+ ![](https://github.com/Penpitcha0634/BSC_DPDM23/blob/363044e2602ec0665f598bf0bd90f7400183b5d8/MIDTERM.png)
+ * Code : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/e9a12db43451ee2b40c63b489a8803b92e6ff0fc/MIDTERM.ipynb)
+
+# FINAL PROJECT
+
+# Lecture
+- 01Intro : [Click Me now]()
+- 02Data-1 : [Click Me now]()
+- 03Preprocessing : [Click Me now]()
+- 06FPBasic : [Click Me now]()
+- 08ClassBasic : [Click Me now]()
+- 09ClassAdvanced : [Click Me now]()
+- 10ClusBasic : [Click Me now]()

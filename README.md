@@ -1,5 +1,6 @@
 นางสาวเพ็ญพิชชา วรรณ์ชูมาตร์ 643020063-4
-# BSC_DPDM23
+# BSC_DPDM23 :![image](https://github.com/Penpitcha0634/BSC_DPDM23/assets/137048193/9482e6d8-7ff9-45c0-8269-a6f800f06460):
+
 
 https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cdd664c16f4/HW4_Calculate_DecisionTree.pdf
 

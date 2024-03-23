@@ -68,3 +68,6 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
 >> ![](https://github.com/Penpitcha0634/BSC_DPDM23/blob/ddf4f8654b48216b24d06c6caa7550b0cecc5a61/HW5_%20Proceptron.png)
 >> - HW5 : [Click to go to HW5](https://github.com/Penpitcha0634/BSC_DPDM23/blob/85ec56be54b51d26ad1fd3f6ebe8bf2e53165b20/HW5_ANN.pdf)
 
+## MIDTERM PROJECT
+>> ![](https://github.com/Penpitcha0634/BSC_DPDM23/blob/363044e2602ec0665f598bf0bd90f7400183b5d8/MIDTERM.png)
+>> * Code : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/e9a12db43451ee2b40c63b489a8803b92e6ff0fc/MIDTERM.ipynb)

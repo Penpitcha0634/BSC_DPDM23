@@ -50,7 +50,17 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
 >>  * PRESENTATION : [Click to go to PRESENTATION](https://github.com/Penpitcha0634/BSC_DPDM23/blob/756ca16e9fa74ede185001f18304b9d2c0696249/HW3_Decision%20Tree.pdf)
 >>  * Code :  [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/756ca16e9fa74ede185001f18304b9d2c0696249/Classification.ipynb)
 
-
-
+## HW4 Parameters is Spitter and Min samples split ทำมือ
+>> สมาชิกกลุ่ม NMN & หนูน้อยหอยนางรม
+>>  * 1.นางสาวเพ็ญพิชชา  วรรณ์ชูมาตร์ รหัสนักศึกษา  643020063-4
+>>  * 2.นายภัทรธร ก้อนมณี รหัสนักศึกษา  643020513-9
+>>  * 3.นายรัชชานนท์ ทิพย์พิมานพร รหัสนักศึกษา  643020515-5
+>>  * 4.นายวุฒิชัย คำนา รหัสนักศึกษา  643020521-0
+>>  * 5.นางสาววริศรา ปันลา รหัสนักศึกษา  643020519-7
+>>  * 6.นางสาวอนัญญา พูลสวัสดิ์ รหัสนักศึกษา  643020526-0
+>>  * 7.นางสาววิลันดา ทาระมาตย์ รหัสนักศึกษา  643021271-2
+>>  ![](https://github.com/Penpitcha0634/BSC_DPDM23/blob/ea5a137609d2fd71a0b1056cc5218319863185f2/HW4_DecisionTreeCal%20(min_samples_split%20%26%20splitter).png)
+>>  * Handwritten : [Click to go to Handwritten](https://github.com/Penpitcha0634/BSC_DPDM23/blob/ea5a137609d2fd71a0b1056cc5218319863185f2/HW4_Calculate_DicisionTree.pdf)
+>>  * PRESENTATION : [Click to go to PRESENTATION](https://github.com/Penpitcha0634/BSC_DPDM23/blob/ea5a137609d2fd71a0b1056cc5218319863185f2/HW4_DecisionTreeCal%20(min_samples_split%20%26%20splitter).pdf)
 
 

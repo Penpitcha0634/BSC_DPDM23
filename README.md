@@ -60,7 +60,11 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
 >>  * 6.นางสาวอนัญญา พูลสวัสดิ์ รหัสนักศึกษา  643020526-0
 >>  * 7.นางสาววิลันดา ทาระมาตย์ รหัสนักศึกษา  643021271-2
 >>  ![](https://github.com/Penpitcha0634/BSC_DPDM23/blob/ea5a137609d2fd71a0b1056cc5218319863185f2/HW4_DecisionTreeCal%20(min_samples_split%20%26%20splitter).png)
->>  * Handwritten : [Click to go to Handwritten](https://github.com/Penpitcha0634/BSC_DPDM23/blob/ea5a137609d2fd71a0b1056cc5218319863185f2/HW4_Calculate_DicisionTree.pdf)
+>>  * HW4 : [Click to go to Handwritten](https://github.com/Penpitcha0634/BSC_DPDM23/blob/ea5a137609d2fd71a0b1056cc5218319863185f2/HW4_Calculate_DicisionTree.pdf)
 >>  * PRESENTATION : [Click to go to PRESENTATION](https://github.com/Penpitcha0634/BSC_DPDM23/blob/ea5a137609d2fd71a0b1056cc5218319863185f2/HW4_DecisionTreeCal%20(min_samples_split%20%26%20splitter).pdf)
 
+## HW2 Decision Tree
+>> - นางสาวเพ็ญพิชชา  วรรณ์ชูมาตร์ รหัสนักศึกษา  643020063-4
+>> ![]([https://github.com/Penpitcha0634/BSC_DPDM23/blob/c9c56381b2f401bfa2be71535fd8d60139c95d03/HW2.jpg](https://github.com/Penpitcha0634/BSC_DPDM23/blob/85ec56be54b51d26ad1fd3f6ebe8bf2e53165b20/HW5_%20Proceptron.png))
+>> - HW5 : [Click to go to HW5]([https://github.com/Penpitcha0634/BSC_DPDM23/blob/c9c56381b2f401bfa2be71535fd8d60139c95d03/HW2%20.pdf](https://github.com/Penpitcha0634/BSC_DPDM23/blob/85ec56be54b51d26ad1fd3f6ebe8bf2e53165b20/HW5_ANN.pdf)https://github.com/Penpitcha0634/BSC_DPDM23/blob/85ec56be54b51d26ad1fd3f6ebe8bf2e53165b20/HW5_ANN.pdf)
 

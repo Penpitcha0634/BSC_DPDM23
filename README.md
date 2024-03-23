@@ -3,7 +3,7 @@
 
 https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cdd664c16f4/HW4_Calculate_DecisionTree.pdf
 
-# Score
+# Score ![image](https://github.com/Penpitcha0634/BSC_DPDM23/assets/137048193/8a4ccf1d-ee95-419b-b3b3-ddb4e3bdaf66)
 | **Work** | **Details** | **Scores** |
 |---- | ---- | ---- |
 | Midterm | data prepocessing ปฏิบัติ (เดี่ยว) | 20% |
@@ -14,14 +14,14 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
 | GitHub | ความสวยงาม | 5%
 | Total |  | 100% |
 
-# All code learned
+# All code learned ![image](https://github.com/Penpitcha0634/BSC_DPDM23/assets/137048193/4e824e3f-b628-49cd-9838-5593838ccb1f)
 - Understanding Data : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/b6baf21bd5c420639b097734dfe268dbdc5d27d8/Understanding_Data.ipynb)
 - Data Preprocessing : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/bab7eb424e37b0a1fbf1b313ff958c9609573c04/Data_Preprocessing.ipynb)
 - Dimensionality Reduction PCA : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/bab7eb424e37b0a1fbf1b313ff958c9609573c04/Dimensionality_Reduction_PCA.ipynb)
 - Frequent Patterns : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/bab7eb424e37b0a1fbf1b313ff958c9609573c04/Frequent_Patterns_(Association_Rules).ipynb)
 - Classification : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/bab7eb424e37b0a1fbf1b313ff958c9609573c04/Classification.ipynb)
 
-# Home Work 
+# Home Work ![image](https://github.com/Penpitcha0634/BSC_DPDM23/assets/137048193/e10848af-0b25-4ade-828a-c8ae083dfebf)
 ## HW1 Frequent set item set and Association rules
 >> สมาชิก กลุ่มหนูน้อยหอยนางรม 
 >>  - 1.นางสาวเพ็ญพิชชา  วรรณ์ชูมาตร์ รหัสนักศึกษา  643020063-4
@@ -32,7 +32,8 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
 >> - PRESENTATION : [Click to go to PRESENTATION](https://github.com/Penpitcha0634/BSC_DPDM23/blob/904050ec96b2b93e60caa29b44217be1697d8f2a/HW1_%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%A1.pdf)
 >> - Code : [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/904050ec96b2b93e60caa29b44217be1697d8f2a/Frequent_Patterns_(Association_Rules).ipynb)
 
-## HW2 Decision Tree
+## HW2 Decision Tree ![image](https://github.com/Penpitcha0634/BSC_DPDM23/assets/137048193/0227bbe4-9a64-46bb-a967-e6f61e247347)
+
 >> - นางสาวเพ็ญพิชชา  วรรณ์ชูมาตร์ รหัสนักศึกษา  643020063-4
 >> ![](https://github.com/Penpitcha0634/BSC_DPDM23/blob/c9c56381b2f401bfa2be71535fd8d60139c95d03/HW2.jpg)
 >> - HW2 : [Click to go to HW2](https://github.com/Penpitcha0634/BSC_DPDM23/blob/c9c56381b2f401bfa2be71535fd8d60139c95d03/HW2%20.pdf)

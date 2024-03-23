@@ -87,10 +87,10 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
 >>  * Code :  [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/9bd509b6ac81929c6c70a0c2be4b9ee4ccfa788e/Group_project2.ipynb)
 
 # Lecture
-- 01Intro : [Click Me now]()
-- 02Data-1 : [Click Me now]()
-- 03Preprocessing : [Click Me now]()
-- 06FPBasic : [Click Me now]()
-- 08ClassBasic : [Click Me now]()
-- 09ClassAdvanced : [Click Me now]()
-- 10ClusBasic : [Click Me now]()
+- 01Intro : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/01Intro.pdf)
+- 02Data-1 : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/02Data-1.pdf)
+- 03Preprocessing : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/03Preprocessing.pdf)
+- 06FPBasic : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/06FPBasic.pdf)
+- 08ClassBasic : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/08ClassBasic.pdf)
+- 09ClassAdvanced : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/09ClassAdvanced.pdf)
+- 10ClusBasic : [Click Me now](https://github.com/Penpitcha0634/BSC_DPDM23/blob/53147ce01cfc3baf9026d78878dd988cab9b6c75/10ClusBasic.pdf)

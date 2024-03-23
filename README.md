@@ -74,6 +74,14 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
 
 # FINAL PROJECT
 สมาชิกกลุ่ม ช่วยด้วย & หนูน้อยหอยนางรม
+* 1.นางสาวทิพย์วัลย์   สุโพธิ์            รหัสนักศึกษา  643020062-6
+* 2.นางสาวเพ็ญพิชชา  วรรณ์ชูมาตร์     รหัสนักศึกษา  643020063-4
+* 3.นางสาววริศรา      ปันลา            รหัสนักศึกษา  643020519-7
+* 4.นางสาวอนัญญา    พูลสวัสดิ์         รหัสนักศึกษา  643020526-0
+* 5.นางสาววิลันดา      ทาระมาตย์        รหัสนักศึกษา  643021271-2
+* 6.นางสาวศดานันท์    ทรัพย์มีมหาศาล   รหัสนักศึกษา  643021272-0
+* 7.นางสาวสุชานาถ     พิลาภ            รหัสนักศึกษา  643021276-2
+* 8.นางสาวอิงอร       พลพาล           รหัสนักศึกษา  643021279-6
 >>  ![](https://github.com/Penpitcha0634/BSC_DPDM23/blob/9bd509b6ac81929c6c70a0c2be4b9ee4ccfa788e/Final_Project_%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%96%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%97%E0%B8%B8%E0%B8%81.png)
 >>  * PRESENTATION : [Click to go to PRESENTATION](https://github.com/Penpitcha0634/BSC_DPDM23/blob/9bd509b6ac81929c6c70a0c2be4b9ee4ccfa788e/Final_Project_%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%96%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%97%E0%B8%B8%E0%B8%81.pdf)
 >>  * Code :  [Click to go to colab](https://github.com/Penpitcha0634/BSC_DPDM23/blob/9bd509b6ac81929c6c70a0c2be4b9ee4ccfa788e/Group_project2.ipynb)

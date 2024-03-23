@@ -12,4 +12,4 @@ https://github.com/Penpitcha0634/BSC_DPDM23/blob/892327a853443fbdcf792611f0bd7cd
 | Homework | แบ่งกลุ่มใหม่ทุกครั้ง | 20%
 | Quiz | ถามตอบในห้อง | 5%
 | GitHub | ความสวยงาม | 5%
-| Total | ---- | 100% |
+| Total |  | 100% |
